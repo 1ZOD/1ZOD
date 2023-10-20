@@ -26,19 +26,23 @@
   </p>
 
 
-- ⌨️ Enthusiast in technology.
+⚪ Enthusiast in technology.
 
-- 💻 Back-end Developer (Python).
+⚪ Back-end Developer (Python).
 
-- 🏠 Living in São Paulo, Brazil.
+⚪ Living in São Paulo, Brazil.
 
-- 🗺️ I am currently learning everything I can.
+⚪ I am currently learning everything I can.
 
-- 📫 How to reach me: nathanmarrega@gmail.com
+⚪ How to reach me: nathanmarrega@gmail.com
 
-
+<h2>VisitorCount</h2>
 **Languages and Tools:** 
 
-<p>
+<div align="left">
+
+![VisitorCount](https://profile-counter.glitch.me/{1ZOD}/count.svg)
+
+</div>
 
 </div>
