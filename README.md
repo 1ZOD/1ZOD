@@ -16,8 +16,11 @@
     </a>
  <br/><br/><br/>
   
-  <p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/societe_generale_global_solution_centre/?originalSubdomain=in">Société Générale</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </em></p>
+  <p>Full Stack Developer 
+      <a href="https://www.linkedin.com/in/nathan-marrega-6b94981bb/">Linkedin</a> 
+      <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+      </br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a>
+  </p>
 
 - 🔭 I’m currently working on getting my shit together.
 - 🔮 What do I do? - Predict the future via computer science black magic.
