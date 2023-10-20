@@ -15,9 +15,12 @@
       <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
  <br/><br/><br/>
-  
-  <p>Full Stack Developer 
-      <a href="https://www.linkedin.com/in/nathan-marrega-6b94981bb/">Linkedin</a> 
+
+   <p>Full Stack Developer 
+      <img align="left" alt="Python" width="20px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/programming-code-signs.png">
+  </p>
+  <p>Linkedin 
+      <a href="https://www.linkedin.com/in/nathan-marrega-6b94981bb/">....</a> 
       <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
       </br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a>
   </p>
