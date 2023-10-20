@@ -37,8 +37,6 @@
 ⚪ How to reach me: nathanmarrega@gmail.com
 
 <h2>VisitorCount</h2>
-**Languages and Tools:** 
-
 <div align="left">
 
 ![VisitorCount](https://profile-counter.glitch.me/{1ZOD}/count.svg)
