@@ -16,26 +16,25 @@
     </a>
  <br/><br/><br/>
 
-   <p>Full Stack Developer 
+  
+  <p>
+     <a href="https://www.linkedin.com/in/nathan-marrega-6b94981bb/">Linkedin</a> 
+     <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </p>
+ <p>Full Stack Developer 
       <img align="left" alt="Python" width="20px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/programming-code-signs.png">
   </p>
-  <p>Linkedin 
-      <a href="https://www.linkedin.com/in/nathan-marrega-6b94981bb/">....</a> 
-      <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-      </br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a>
-  </p>
 
-- 🔭 I’m currently working on getting my shit together.
-- 🔮 What do I do? - Predict the future via computer science black magic.
-- 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
-      conveyances for transporting people or goods...basically, I'm learning how to drive. 
-- 👯 I’m looking to collaborate on Machine Learning, Java and Web Development related projects.
-- 🤔 I’m looking for help with LSTMs and Cloud Computing. 
-- 💬 Ask me about: anything but my life.
-- 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the footer.
-- 😄 Pronouns: built/different
-- ⚡ Fun fact: Getting stabbed is very demotivating.
-- 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
+
+- ⌨️ Enthusiast in technology.
+
+- 💻 Back-end Developer (Python).
+
+- 🏠 Living in São Paulo, Brazil.
+
+- 🗺️ I am currently learning everything I can.
+
+- 📫 How to reach me: nathanmarrega@gmail.com
 
 
 **Languages and Tools:** 
