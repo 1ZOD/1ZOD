@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
 
 <div align = 'left'>
-    <a href="https://twitter.com/nastikbrahmin">
+    <a href="">
       <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
       <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
