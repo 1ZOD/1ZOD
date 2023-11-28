@@ -13,6 +13,8 @@
       <img align="left" src="https://skillicons.dev/icons?i=postgresql" width="40px"/>
       <img align="left" src="https://skillicons.dev/icons?i=html" width="40px"/>
       <img align="left" src="https://skillicons.dev/icons?i=css" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=nest" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=next" width="40px"/>
       <img src="https://skillicons.dev/icons?i=prisma" width="40px"/> 
     </a>
  <br/><br/><br/>
