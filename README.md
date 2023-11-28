@@ -39,7 +39,7 @@
 <h2>VisitorCount</h2>
 <div align="left">
 
-![VisitorCount](https://profile-counter.glitch.me/{1ZOD}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{rogergbrito}/count.svg)
 
 </div>
 
