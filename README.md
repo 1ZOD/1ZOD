@@ -10,6 +10,9 @@
       <img align="left" src="https://skillicons.dev/icons?i=typescript" width="40px"/>
       <img align="left" src="https://skillicons.dev/icons?i=javascript" width="40px"/>
       <img align="left" src="https://skillicons.dev/icons?i=angular" width="40px"/>
+    </a>
+     <a href="">
+      <img align="left" src="https://skillicons.dev/icons?i=angular" width="40px"/>
       <img align="left" src="https://skillicons.dev/icons?i=postgresql" width="40px"/>
       <img align="left" src="https://skillicons.dev/icons?i=html" width="40px"/>
       <img align="left" src="https://skillicons.dev/icons?i=css" width="40px"/>
