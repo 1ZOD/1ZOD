@@ -3,16 +3,17 @@
 
 <div align = 'left'>
     <a href="">
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="left" src="https://skillicons.dev/icons?i=python" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=react" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=nodejs" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=flutter" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=typescript" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=javascript" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=angular" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=postgresql" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=html" width="40px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=css" width="40px"/>
+      <img src="https://skillicons.dev/icons?i=prisma" width="40px"/> 
     </a>
  <br/><br/><br/>
 
