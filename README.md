@@ -3,22 +3,19 @@
 
 <div align = 'left'>
     <a href="">
-      <img align="left" src="https://skillicons.dev/icons?i=python" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=react" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=nodejs" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=flutter" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=typescript" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=javascript" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=angular" width="40px"/>
-    </a>
-     <a href="">
-      <img align="left" src="https://skillicons.dev/icons?i=angular" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=postgresql" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=html" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=css" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=nest" width="40px"/>
-      <img align="left" src="https://skillicons.dev/icons?i=next" width="40px"/>
-      <img src="https://skillicons.dev/icons?i=prisma" width="40px"/> 
+      <img align="left" src="https://skillicons.dev/icons?i=python" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=react" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=nodejs" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=flutter" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=typescript" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=javascript" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=angular" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=postgresql" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=html" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=css" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=nest" width="30px"/>
+      <img align="left" src="https://skillicons.dev/icons?i=next" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=prisma" width="30px"/> 
     </a>
  <br/><br/><br/>
 
@@ -50,3 +47,4 @@
 </div>
 
 </div>
+
